@@ -1,0 +1,8 @@
+[[36mDEBUG[m] 2025-08-27 17:31:52,727 DatabaseConn.connect() - Database Connection Successful
+[[32mINFO [m] 2025-08-27 17:31:52,748 DatabaseConn.connect() - Entering application.
+[[36mDEBUG[m] 2025-08-27 17:32:00,396 DatabaseConn.insertRecord() - A new user was inserted successfully!
+[[1;31mERROR[m] 2025-08-27 17:32:40,974 DatabaseConn.getAllRecords() - Exception in connection: java.lang.NumberFormatException: For input string: "m"
+[[36mDEBUG[m] 2025-08-27 17:32:54,934 DatabaseConn.insertRecord() - A new user was inserted successfully!
+[[1;31mERROR[m] 2025-08-27 17:32:56,619 DatabaseConn.getAllRecords() - Exception in connection: java.lang.NumberFormatException: For input string: "m"
+[[36mDEBUG[m] 2025-08-27 17:37:11,518 DatabaseConn.deleteRecord() - Employee was deleted successfully!
+[[1;31mERROR[m] 2025-08-27 17:37:15,517 DatabaseConn.getAllRecords() - Exception in connection: java.lang.NumberFormatException: For input string: "manisha"

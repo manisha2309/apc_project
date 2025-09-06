@@ -1,0 +1,5 @@
+[[36mDEBUG[m] 2025-08-27 17:39:21,505 DatabaseConn.connect() - Database Connection Successful
+[[32mINFO [m] 2025-08-27 17:39:21,525 DatabaseConn.connect() - Entering application.
+[[36mDEBUG[m] 2025-08-27 17:39:37,556 DatabaseConn.insertRecord() - A new user was inserted successfully!
+[[36mDEBUG[m] 2025-08-27 17:40:04,276 DatabaseConn.insertRecord() - A new user was inserted successfully!
+[[36mDEBUG[m] 2025-08-27 17:40:23,554 DatabaseConn.updateRecord() - An existing user was updated successfully!
